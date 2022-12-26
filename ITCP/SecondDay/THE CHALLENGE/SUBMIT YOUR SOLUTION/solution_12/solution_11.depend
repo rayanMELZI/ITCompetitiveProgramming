@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672044467 source:c:\users\x13\onedrive\bureau\itcp\second day solutions\solution_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
