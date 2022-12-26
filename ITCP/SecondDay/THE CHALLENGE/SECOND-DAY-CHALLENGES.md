@@ -1,5 +1,5 @@
 
-# ITCompetitiveProgramming First day challenges 
+# ITCompetitiveProgramming Second day challenges 
 
 ## Probleme 01: LINUX 
 
